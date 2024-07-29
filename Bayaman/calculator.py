@@ -6,3 +6,4 @@ while number != -1:
     number -= 1
 
 print('The end')
+print('bye bye')
